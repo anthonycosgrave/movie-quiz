@@ -2,6 +2,8 @@
 
 An accessible React quiz application that tests your movie knowledge. Choose from three categories—release years, directors, or actors—and answer questions generated from real movie data via the TMDb API.
 
+Watch the demo below:
+
 [![Watch the demo](http://img.youtube.com/vi/k6XN9ORSmJY/0.jpg)](https://youtu.be/k6XN9ORSmJY)
 
 ## Features
@@ -59,5 +61,6 @@ npx playwright test
 Language support for better pronuncation of international names and titles.
 
 ## Favicon 
+
 
 <a target="_blank" href="https://icons8.com/icon/20848/movie-projector">Movie Projector</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
