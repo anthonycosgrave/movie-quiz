@@ -19,7 +19,6 @@ Watch the demo below:
 ## Tech Stack
 
 - [React 19.2.0](https://react.dev/blog/2025/10/01/react-19-2)
-- [React Aria Components](https://react-spectrum.adobe.com/react-aria/components.html)
 - [TMDb API](https://developer.themoviedb.org/docs/getting-started)
 - [axios](https://axios-http.com/docs/intro)
 - [Jest](https://jestjs.io/) + React Testing Library
