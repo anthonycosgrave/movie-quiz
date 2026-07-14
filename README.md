@@ -2,7 +2,7 @@
 
 An accessible React quiz application that tests your movie knowledge. Choose from three categories—release years, directors, or actors—and answer questions generated from real movie data via the TMDb API.
 
-## Watch a brief demo on YouTube
+## Demo on YouTube
 
 [![Watch the demo](http://img.youtube.com/vi/k6XN9ORSmJY/0.jpg)](https://youtu.be/k6XN9ORSmJY)
 
